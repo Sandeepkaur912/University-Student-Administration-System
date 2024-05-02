@@ -1,0 +1,14 @@
+C:\Users\sande\OneDrive\Desktop\C# CourseWork\ConsoleApp4\bin\Debug\net6.0\FinalDraft.exe
+C:\Users\sande\OneDrive\Desktop\C# CourseWork\ConsoleApp4\bin\Debug\net6.0\FinalDraft.deps.json
+C:\Users\sande\OneDrive\Desktop\C# CourseWork\ConsoleApp4\bin\Debug\net6.0\FinalDraft.runtimeconfig.json
+C:\Users\sande\OneDrive\Desktop\C# CourseWork\ConsoleApp4\bin\Debug\net6.0\FinalDraft.dll
+C:\Users\sande\OneDrive\Desktop\C# CourseWork\ConsoleApp4\bin\Debug\net6.0\FinalDraft.pdb
+C:\Users\sande\OneDrive\Desktop\C# CourseWork\ConsoleApp4\obj\Debug\net6.0\FinalDraft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sande\OneDrive\Desktop\C# CourseWork\ConsoleApp4\obj\Debug\net6.0\FinalDraft.AssemblyInfoInputs.cache
+C:\Users\sande\OneDrive\Desktop\C# CourseWork\ConsoleApp4\obj\Debug\net6.0\FinalDraft.AssemblyInfo.cs
+C:\Users\sande\OneDrive\Desktop\C# CourseWork\ConsoleApp4\obj\Debug\net6.0\FinalDraft.csproj.CoreCompileInputs.cache
+C:\Users\sande\OneDrive\Desktop\C# CourseWork\ConsoleApp4\obj\Debug\net6.0\FinalDraft.dll
+C:\Users\sande\OneDrive\Desktop\C# CourseWork\ConsoleApp4\obj\Debug\net6.0\refint\FinalDraft.dll
+C:\Users\sande\OneDrive\Desktop\C# CourseWork\ConsoleApp4\obj\Debug\net6.0\FinalDraft.pdb
+C:\Users\sande\OneDrive\Desktop\C# CourseWork\ConsoleApp4\obj\Debug\net6.0\FinalDraft.genruntimeconfig.cache
+C:\Users\sande\OneDrive\Desktop\C# CourseWork\ConsoleApp4\obj\Debug\net6.0\ref\FinalDraft.dll
